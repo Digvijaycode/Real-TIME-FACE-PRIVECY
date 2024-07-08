@@ -1,0 +1,1 @@
+python global version needed to be installed
